@@ -17,6 +17,7 @@ Shift + 1: ! (Exclamation Mark)
 - [Youtube](https://www.youtube.com/)
 - [George Brown STU-VIEW](https://stuview.georgebrown.ca/)
 - [Google Docs](https://docs.google.com/document/u/0/)
+-  [CLI commands](docs/cli.md)
 
 - # Experiment
 - 
